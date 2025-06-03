@@ -1,11 +1,5 @@
 #Machine Problem 1 - PyLibs
 
-print("╔════════════════════╗") 
-print("║ Riza D. Francisco  ║") 	
-print("║ BS in Statistics I ║")
-print("╚════════════════════╝\n") 
-#to display a formatted section of my name and degree in the a visually appealing manner
-
 #Define a story template #using string interpolation to insert value for variables in the predefined text
 story_template = """Once upon a time, {} was at the center of a controversial event involving the relocation of the {}s from {} to {}. The plan was to {} valuable land from the island of {}, forcing the {}s to leave their ancestral home. This action was meant to make way for large-scale development projects.
 
